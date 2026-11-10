@@ -13,3 +13,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Madonna in A Fur Coat](ebook/Madonna in A Fur Coat.pdf) – Ali, S (1943)
 10. [Sihir Perempuan](ebook/Sihir Perempuan.pdf) – Paramaditha, I (2005)
 11. [Woman at Point Zero](ebook/Woman at Point Zero.pdf) – Saadawi, N (1977)
+12. [Rangkuman UGC, Transforming Libraries through Information Technology](ebook/Rangkuman UGC, Transforming Libraries through Information Technology) – Eliza, N (2026)
